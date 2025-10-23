@@ -46,7 +46,7 @@ If you want to modify or compile the game yourself, you will need a C compiler a
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/lahkopo/C-Raylib-Match3.git](https://github.com/lahkopo/C-Raylib-Match3.git)
+    git clone https://github.com/lahkopo/C-Raylib-Match3.git
     cd C-Raylib-Match3
     ```
 
